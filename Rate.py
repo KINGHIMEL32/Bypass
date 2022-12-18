@@ -698,4 +698,4 @@ def rndm(ids,passlist):
                 except Exception as e:
                         pass
 try:
-        menu
+        menu()
